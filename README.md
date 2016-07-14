@@ -2,5 +2,6 @@
 EMail activation is primarily used to ensure that you're signing up with a real email address, and also one that you have access to and therefore you are the legitimate owner of the email address.</p>
 
 <p>However, It takes care of some jokers(some end users of the site) who may submit funny data to the site.</p>
-<h2>dfdfd</h2>
+<h2>Installation</h2>
+<p>Download the zip folder and and extract the zipped files. Open the includes folder and edit the database config file(config.php) to match your database connections.</p>
 
