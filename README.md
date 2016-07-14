@@ -12,4 +12,4 @@ EMail activation is primarily used to ensure that you're signing up with a real 
 (i.e mydomain.com/register.php), register and try signing in before activating your account to see what will happen. If you get a error dialog box during the signing in, then you'll have to open the email account associated with the email address that you registered with and then click on the activation link to activate your account. Once your account is active, you may now login.</p>
 <p>Otherwise if you want to install it in your local server to test whether the email will be send to your email account, then you will need to install a mailing server. </p>
 
-<p><a href="http://tests.countykonnect.com/register.php">Live Demo</a></p>
+<p><a href="http://tests.countykonnect.com/register.php" target="_blank">Live Demo</a></p>
