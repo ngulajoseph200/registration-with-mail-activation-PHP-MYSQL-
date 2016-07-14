@@ -6,5 +6,5 @@ EMail activation is primarily used to ensure that you're signing up with a real 
 <h2>Download / Clone</h2>
 <p>Clone using git</p>
 <pre>git clone https://github.com/ngulajoseph200/registration-with-mail-activation-PHP-MYSQL-.git</pre>
-<p>Download the zip folder and and extract the zipped files. Open the includes folder and edit the database config file(config.php) to match your database connections.</p>
+<p>Alternatively you can download this repository, the zipped folder and and extract the zipped files. Open the includes folder and edit the database config file(config.php) to match your database connections.</p>
 
