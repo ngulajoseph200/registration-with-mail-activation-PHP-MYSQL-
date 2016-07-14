@@ -1,3 +1,4 @@
+<h2>Registration with-mail activation in PHP &amp; MYSQL</h2>
 <p>Nowadays web developers are creating user registration with mail activation. In my own opinion, some of the reasons behind this are:
 EMail activation is primarily used to ensure that you're signing up with a real email address, and also one that you have access to and therefore you are the legitimate owner of the email address.</p>
 
