@@ -6,7 +6,7 @@ EMail activation is primarily used to ensure that you're signing up with a real 
 <h2>Download / Clone</h2>
 <p>Clone using git</p>
 <pre>git clone https://github.com/ngulajoseph200/registration-with-mail-activation-PHP-MYSQL-.git</pre>
-<p>Alternatively you can <a id="url" target="_blank" href="https://codeload.github.com/ngulajoseph200/registration-with-mail-activation-PHP-MYSQL-/zip/master">Download</a> this repository, the zipped folder and and extract the zipped files. Open the includes folder and edit the database config file(config.php) to match your database connections.</p>
+<p>Alternatively you can <a id="url" target="_blank" href="https://codeload.github.com/ngulajoseph200/registration-with-mail-activation-PHP-MYSQL-/zip/master">Download</a> this repository, the zipped folder and and extract the zipped files. Open the includes folder and edit the database config file(config.php) to match your database configurations.</p>
 <h2>Installation</h2>
 <p>Upload the files in your root-folder in your online server and open the register.php file in your browser. 
 (i.e mydomain.com/register.php), register and try signing in before activating your account to see what will happen. If you get a error dialog box during the signing in, then you'll have to open the email account associated with the email address that you registered with and then click on the activation link to activate your account. Once your account is active, you may now login.</p>
