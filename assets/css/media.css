@@ -1,0 +1,97 @@
+/*==== @ media =====*/
+@media (max-width: 284px){
+	.hotel-title{display:none;}
+}
+
+@media (max-width: 396px){
+	.navbar-default .navbar-nav > li {float:none; text-align: -webkit-center;}
+}
+
+@media (min-width: 397px) and (max-width: 768px){
+	.navbar-default .navbar-nav > li {float:left;}
+}
+
+@media (max-width: 365px){
+	#rmprice a{float:left !important;}
+}
+
+@media (max-width: 388px){
+	.page-title-container .breadcrumb{float:left !important;}
+}
+
+@media (max-width: 426px){
+	.navbar-default .navbar-nav > li > a{font-size:14px;}
+}
+
+@media (max-width: 430px){
+	.tabs li a{height: 0 !important; background: none !important; margin: 0px 5px; display: inline-block !important; line-height: 0 !important;}
+	.tabs .fa{display:none !important;}
+}
+
+@media (max-width: 500px){
+	.rms .col-sm-4, #offer_box_inner .col-sm-6 {margin-bottom:15px;}
+	#offer_box{margin-left:15px}
+}
+
+@media (min-width: 430px) and (max-width: 768px){
+	.tab-container{padding:0;}
+	.tabs li a{padding: 0 8px; margin: 0 5px;}
+}
+
+@media (max-width: 499px){
+	.booking-schedule{display:none;}
+	.reservation-horizontal{position:relative; top:20px;}
+}
+
+@media (min-width: 500px) and (max-width: 768px){
+	.pro-img, .rm_info_container, #offer_box .overlay_image, #offer_box .offer_desc_container{float:left; width:50%;}
+	#rm_list .col-sm-4{height:198px;margin-bottom: 15px;overflow: hidden;}
+	.offer_box_left{margin-bottom:15px;}
+	#offer_box{margin-left:15px;height: 189px;}
+}
+
+@media (min-width: 768px) {
+	.vb{display:block;}
+	.vb1{display:none;}
+}
+
+@media (max-width: 768px){
+	.vb1{display:block;margin-right:15px;}
+	.vb{display:none !important;}
+	.pagination{margin-left:10px;}
+	.icon_bar_container{padding-right:0;}
+	#room-banner .col-sm-6 {float:left; width: 50%;}
+	.tab-content, .gray-area{padding:0 20px;}
+	.tabs{display:table-cell; margin-left:-40px;}
+	.tabs li{float:left;}
+}
+
+@media (min-width: 768px) and (max-width: 992px){
+	.tabs{margin-left: -40px;}
+}
+
+@media (max-width: 992px){	
+	.navbar-default .navbar-nav > li:last-child{display:none;}	
+	.navbar-default .navbar-nav > li > a{padding: 6px 6px !important;}
+	.price-tag-box span sub{display:none; !important;}
+	.price-tag-box span sup{font-size:20px !important; top:0;}
+	#check label{font-size:12px;}
+}
+
+@media (min-width: 768px) and (max-width: 1200px){
+	.panel_left .navbar-default .nav li{float:left;}
+}
+
+@media (max-width: 1200px){
+	.detail span{font-size:34px;}
+	.price-tag-box h2{font-size:20px; margin:0 0 5px;}
+	.price-heading{padding:10px;}	
+	.price-tag-box span sup{top:0;}	
+	.detail-meta{padding: 0 0 30px;}
+	#check button{font-size:10px; padding:8px;}	
+	#rmm{display:none;}
+	.panel_left .navbar-default .nav{min-height:100px ;}
+	.back , .forward{display:none;}
+}
+	
+	
