@@ -13,4 +13,4 @@ EMail activation is primarily used to ensure that you're signing up with a real 
 <p>Don't worry about the forms validations, have taken care of that.</p>
 <p>Otherwise if you want to install it in your local server to test whether the email will be send to your email account, then you will need to install a mailing server. </p>
 
-<p><a href="http://tests.countykonnect.com/register.php">Live Demo</a></p>
+
